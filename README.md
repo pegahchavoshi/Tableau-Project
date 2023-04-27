@@ -2,7 +2,8 @@
 
 ## Dashboard Overview
 
-<img width="1416" alt="Screenshot 2023-04-26 183814" src="https://user-images.githubusercontent.com/94572320/234738142-5859f4b5-6267-4b9b-bde5-a3da94ece94b.png">
+
+<img width="1415" alt="Screenshot 2023-04-26 192719" src="https://user-images.githubusercontent.com/94572320/234744316-913c8e2b-46c3-4b51-b103-c722c93f61af.png">
 
 
 ### Introduction
